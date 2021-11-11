@@ -14,7 +14,7 @@ This file is a test to see if you can create a seqwuence of images and movies wi
 
 This file shoud be run on the machine that is connected to the central projector
 
-## chilTest.izz
+## childTest.izz
 
 This is a tempalte file that participants can use to map content and send video to the parent over NDI
 
