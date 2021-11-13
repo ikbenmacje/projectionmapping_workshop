@@ -6,17 +6,18 @@ This is a repository with the working files for an Isadora projeciton mapping wo
 
 Here you can fond some images and videos to use as test material
 
-## sequence.izz
+## mappingServer.izz
 
-This file is a test to see if you can create a seqwuence of images and movies with using the control panel
+This is the master file that will run on the computer that is connected to the projector.
+The only two functions function of this file are: 
 
-## parent.izz
+1. recieve all relevant NDI streams and project them
+2. record and play back of compositions
 
-This file shoud be run on the machine that is connected to the central projector
+## mappingClinet.izz
 
-## childTest.izz
-
-This is a tempalte file that participants can use to map content and send video to the parent over NDI
+This file is the client file that will run on all the vclient laptops.
+This is the patch that can be used to play with and create a projection mapping composition.
 
 ## NOTE:
 
