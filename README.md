@@ -21,5 +21,9 @@ This is the patch that can be used to play with and create a projection mapping 
 
 ## NOTE:
 
-- These patches are made and tested on Isadora 3.1.1
-- Some of these patches use the NDI wathcer which is an Isadora addon that you can find here: https://troikatronix.com/add-ons/
+- These patches are made and tested on Isadora 3.1.1 (Windows 10 & OSX 11.3.1)
+- These patches need some Isadora add-ons in order to work. The addons are:
+	- NDI Watcher https://troikatronix.com/add-ons/ndi-watcher/
+	- TT FFGL https://troikatronix.com/add-ons/tt-ffgl-for-isadora-2-3/
+	- TT GLSL shaders https://troikatronix.com/add-ons/tt-glsl-shaders-for-isadora-2-3/ 
+
